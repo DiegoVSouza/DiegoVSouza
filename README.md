@@ -12,8 +12,8 @@ Aqui está um status geral do meu GitHub
 
 E aqui um pouco mais sobre mim:
 
- 🔥 &nbsp; Atualmente trabalho como Desenvolvedor Full-Stack na **Chama Inovação**
- <br/> :computer: &nbsp; Minha stack: React.js, Typescript, Next.js e Node.js
+ 🔥 &nbsp; Atualmente estudo Matemática computacional na UFCA - Universidade Federal do Cariri
+ <br/> :computer: &nbsp; Minhas stacks: React.js, Typescript, Next.js e Node.js
  <br/> 👀  &nbsp; Sobre mim: Sou aficionado por tecnologias, jogos e computadores deis de criança, curto series e animes no geral 😊
  <br/> 👨‍💻 &nbsp; Buscando colaborar com projetos em React.js e Node.js
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-DiegoVieira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegovsouza99/)](https://www.linkedin.com/in/diegovsouza99/) 
